@@ -13,7 +13,11 @@
     },
     "dnsNameForPublicIP": {
       "value": "myDnsName"
+    },
+    "location": {
+      "value": "West US"
     }
+    
   }
 }
 
